@@ -1,24 +1,23 @@
-# dedvbnSS
 <p align="center">
-  <!-- Баннер в стиле терминала/DevOps (можно заменить на свой GIF/картинку) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=DevOps%20%7C%20SysAdmin&fontSize=40&animation=fadeIn" width="100%" />
+  <!-- Твоя гіфка з Pinterest як головний баннер -->
+  <img src="https://i.pinimg.com/originals/70/8a/b1/708ab1b0fa1de07dcd733191bd1c5481.gif" width="100%" />
 </p>
 
-<h1 align="center">Namaste 🙏 I'm podavan</h1>
+<h1 align="center">Привіт 🙏 Я dedvbnSS</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_НИКНЕЙМ&label=Profile%20Views&color=007acc&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=dedvbnSS&label=Прогляди%20профілю&color=007acc&style=flat" alt="Views" />
 </p>
 
-### 🔭 About Me
-* 🌐 **Focus:** Building high-availability systems, load balancing, and infrastructure automation.
-* 🛠️ **Current Tasks:** Customizing and optimizing Linux server environments, automating routines via BASH, and managing containerized services.
-* ⚙️ **Environments:** Actively working with **WSL**, **VMware**, and **Docker** environments, troubleshooting complex cross-platform networking.
-* 🎯 **Goal:** Designing robust CI/CD pipelines, secure networking architectures, and proactive monitoring systems.
+### 🔭 Про мене
+* 🌐 **Напрямок:** Проектування високонавантажених та відмовостійких систем, балансування трафіку та автоматизація інфраструктури.
+* 🛠️ **Поточні завдання:** Тюнінг та оптимізація серверних середовищ Linux, автоматизація рутини за допомогою BASH, розгортання та керування контейнеризованими сервісами.
+* ⚙️ **Окруження:** Активно працюю з **WSL**, **VMware** та **Docker**, займаюся налагодженням складних мережевих топологій.
+* 🎯 **Ціль:** Побудова надійних CI/CD конвеєрів, впровадження GitOps та створення систем проактивного моніторингу.
 
 ---
 
-### 🚀 Tech Stack & Infrastructure
+### 🚀 Стек технологій & Інфраструктура
 
 <table>
   <tr>
@@ -54,39 +53,39 @@
 
 ---
 
-### 📊 GitHub Status
+### 📊 Статистика GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dedvbnSS&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedvbnSS&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 📂 Featured Infrastructure Projects
+### 📂 Закріплені інфраструктурні проекти
 
 <table>
   <tr>
     <td width="50%">
-      <h4>🌐 Load Balancing & Web Clusters</h4>
-      <p>Configurations for high-availability proxies (HAProxy/Nginx), SSL/TLS offloading, and custom redirect rules for high-load environments.</p>
+      <h4>🌐 Балансування навантаження та веб-кластери</h4>
+      <p>Конфігурації для високодоступних проксі-серверів (HAProxy/Nginx), термінація SSL/TLS та кастомні правила перенаправлення для високонавантажених середовищ.</p>
       <code>HAProxy</code> <code>Nginx</code> <code>Docker-Compose</code>
     </td>
     <td width="50%">
-      <h4>📊 Monitoring & Metrics</h4>
-      <p>Infrastructure monitoring dashboards and alerting configurations using the Prometheus API and Grafana for system metrics aggregation.</p>
+      <h4>📊 Моніторинг та метрики</h4>
+      <p>Інфраструктурні панелі моніторингу та налаштування сповіщень за допомогою Prometheus API та Grafana для агрегації системних метрик.</p>
       <code>Prometheus</code> <code>Grafana</code> <code>Linux API</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>💻 Automation & Scripting</h4>
-      <p>Collection of robust BASH scripts, environment initialization tools, and advanced configuration files for modern terminal environments (tmux, custom shell profiles).</p>
+      <h4>💻 Автоматизація та скрипти</h4>
+      <p>Колекція надійних BASH-скриптів, інструментів ініціалізації середовища та розширених конфігураційних файлів для терміналу.</p>
       <code>BASH Scripting</code> <code>Linux Admin</code> <code>Automation</code>
     </td>
     <td width="50%">
-      <h4>🛡️ Network Lab & Cisco Tasks</h4>
-      <p>Network infrastructure designs, Cisco Packet Tracer labs, routing tables configuration, and internal network troubleshooting between virtual hypervisors and containers.</p>
+      <h4>🛡️ Мережеві лабораторні роботи</h4>
+      <p>Проектування мережевої інфраструктури, лабораторні Cisco Packet Tracer, конфігурація таблиць маршрутизації та траблшутинг мережі.</p>
       <code>Cisco</code> <code>Networking</code> <code>Virtualization</code>
     </td>
   </tr>
@@ -94,7 +93,7 @@
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Зв'язок зі мною
 <p align="left">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -102,8 +101,4 @@
   <a href="https://t.me/p222222p22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=60&section=footer" width="100%" />
 </p>
