@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Твоя гіфка з Pinterest як головний баннер -->
-  <img src="https://cdn.pfps.gg/banners/3373-guts-v-s-griffith.gif" width="100%" />
+  <img src="https://cdn.pfps.gg/banners/70493-need-moneyy.png" width="100%" />
 </p>
 
 
