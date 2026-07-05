@@ -7,21 +7,21 @@
 ### 🚀 Стек технологій
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- Основна матриця DevOps & Мережевих скілів -->
-    <img src="https://skillicons.dev/icons?i=linux,windows,bash,docker,kubernetes,gitlab,jenkins,ansible,terraform,vault,vscode,cisco,mikrotik,mysql,postgres,prometheus,grafana,elasticsearch&perline=12" />
-  </a>
-  <!-- Додаткові інфраструктурні та безпекові скіли у тому ж квадратному стилі -->
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/LDAP-4EAA25?style=for-the-badge&logo=openldap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESXi_/_Proxmox-612647?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nutanix_/_NFS-2496ED?style=for-the-badge&logo=purestorage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Palo_Alto-005485?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Warp_VPN-F6821F?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/CCNA_Network_Deploy_from_0-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESET_Security-009A93?style=for-the-badge&logo=eset&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hikvision_/_u--prox-FF0000?style=for-the-badge&logo=googlehome&logoColor=white" />
+  <!-- Рядок 1: OS, Скрипти, Контейнери, CI/CD, IaC, Інструменти -->
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,docker,kubernetes,gitlab,jenkins,ansible,terraform,vault,vscode,cisco,mikrotik&perline=13" />
+  <br />
+  <!-- Рядок 2: Бази даних, Моніторинг, Системи логування -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,prometheus,grafana,zabbix,elasticsearch&perline=13" />
+  <!-- Рядок 3: Віртуалізація, Мережева безпека, Специфічний софт (Прямі SVG в один стиль) -->
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-original.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/vmware.svg" width="46" height="46" alt="ESXi" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/nutanix.svg" width="46" height="46" alt="Nutanix" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/active-directory.svg" width="46" height="46" alt="Active Directory" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/paloalto.svg" width="46" height="46" alt="Palo Alto" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/cloudflare.svg" width="46" height="46" alt="Warp VPN" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/eset.svg" width="46" height="46" alt="ESET" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/hikvision.svg" width="46" height="46" alt="Hikvision" style="border-radius: 10px; margin-right: 2px;" />
 </p>
 
 ---
