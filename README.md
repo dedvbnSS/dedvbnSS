@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Твоя гіфка з Pinterest як головний баннер -->
-  <img src="https://i.pinimg.com/originals/3a/44/49/3a444929dda2f63c69fc557da7dd329e.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtibnd5bW14cXN6bXpsbXNoOHg5Z2ZpZnY1amptYjdicW94ZXB3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Привіт 🙏 Я dedvbnSS</h1>
