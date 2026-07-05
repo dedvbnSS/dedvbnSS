@@ -1,4 +1,4 @@
-# TWINERIDANSS
+# dedvbnSS
 <p align="center">
   <!-- Баннер в стиле терминала/DevOps (можно заменить на свой GIF/картинку) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=DevOps%20%7C%20SysAdmin&fontSize=40&animation=fadeIn" width="100%" />
