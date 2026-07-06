@@ -7,7 +7,11 @@
 ### 🚀 Стек технологій
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="46" height="46" alt="Linux" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="46" height="46" alt="Windows" style="border-radius: 10px; margin-right: 2px;" />
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" width="46" height="46" alt="VMware-esxi" style="border-radius: 10px; margin-right: 2px;" />
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" width="46" height="46" alt="Truenas" style="border-radius: 10px; margin-right: 2px;" />
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />
 </p>
 
 ---
