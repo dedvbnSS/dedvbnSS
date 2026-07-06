@@ -4,7 +4,7 @@
 </p>
 
 
-### 🚀 Стек технологій
+### 🚀 MY TECHSTACK
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="46" height="46" alt="Linux" style="border-radius: 10px; margin-right: 2px;" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🤝 Зв'язок зі мною
+### 🤝 CONTACT
 <p align="left">
   <a href="mailto:danildoom9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
