@@ -34,17 +34,17 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
    <br />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" width="46" height="46" alt="Prometheus" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana-alloy.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/elasticsearch.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/logstash.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/hikvision.png" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/haproxy.svg2" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/palo-alto-networks.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/network-optimizer-logo.png" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/keycloak.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" width="46" height="46" alt="Grafana" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana-alloy.svg" width="46" height="46" alt="grafana-alloy" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/elasticsearch.svg" width="46" height="46" alt="Elasticsearch" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/logstash.svg" width="46" height="46" alt="Logstash" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" width="46" height="46" alt="Kibana" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/hikvision.png" width="46" height="46" alt="Hikivision" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/haproxy.svg" width="46" height="46" alt="HAproxy" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/palo-alto-networks.svg" width="46" height="46" alt="PaloAlto" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/network-optimizer-logo.png" width="46" height="46" alt="Network" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/keycloak.svg" width="46" height="46" alt="Keycloak" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" width="46" height="46" alt="Wazuh" style="border-radius: 10px; margin-right: 2px;" />
   
 </p>
 
