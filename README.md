@@ -9,9 +9,9 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="46" height="46" alt="Linux" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="46" height="46" alt="Windows" style="border-radius: 10px; margin-right: 2px;" />
-   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" width="46" height="46" alt="VMware-esxi" style="border-radius: 10px; margin-right: 2px;" />
-   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" width="46" height="46" alt="Truenas" style="border-radius: 10px; margin-right: 2px;" />
-   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />x
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" width="46" height="46" alt="VMware-esxi" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" width="46" height="46" alt="Truenas" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />x
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" width="46" height="46" alt="Cisco" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik-light.svg" width="46" height="46" alt="Mikrotik" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" width="46" height="46" alt="Ansible" style="border-radius: 10px; margin-right: 2px;" />
@@ -32,6 +32,20 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg" width="46" height="46" alt="Zabbix" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ldap-account-manager.png" width="46" height="46" alt="LDAP" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+   <br />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" width="46" height="46" alt="Prometheus" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grafana-alloy.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/elasticsearch.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/logstash.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kibana.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/hikvision.png" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/haproxy.svg2" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/palo-alto-networks.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/network-optimizer-logo.png" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/keycloak.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
+  
 </p>
 
 ---
