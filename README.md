@@ -11,7 +11,15 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" width="46" height="46" alt="Windows" style="border-radius: 10px; margin-right: 2px;" />
    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vmware-esxi.svg" width="46" height="46" alt="VMware-esxi" style="border-radius: 10px; margin-right: 2px;" />
    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" width="46" height="46" alt="Truenas" style="border-radius: 10px; margin-right: 2px;" />
-   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" width="46" height="46" alt="Proxmox" style="border-radius: 10px; margin-right: 2px;" />x
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" width="46" height="46" alt="Cisco" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mikrotik-light.svg" width="46" height="46" alt="Mikrotik" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ansible-light.svg" width="46" height="46" alt="Ansible" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/terraform.svg" width="46" height="46" alt="Terraform" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitlab.svg" width="46" height="46" alt="GitLab2" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jenkins.svg" width="46" height="46" alt="Jenkins" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cloudflare.svg" width="46" height="46" alt="Cloudeflare" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="" width="46" height="46" alt="Linux" style="border-radius: 10px; margin-right: 2px;" />
 </p>
 
 ---
