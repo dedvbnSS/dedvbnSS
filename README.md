@@ -25,13 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kubernetes.svg" width="46" height="46" alt="Kubernetes" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vault-light.svg" width="46" height="46" alt="Vault" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" width="46" height="46" alt="Nginx" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/apache-kafka.svg" width="46" height="46" alt="Kafka" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kafka-wordmark-dark.svg" width="46" height="46" alt="Kafka" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache.svg" width="46" height="46" alt="Apache" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" width="46" height="46" alt="MySQL" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" width="46" height="46" alt="PostgreSQL" style="border-radius: 10px; margin-right: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg" width="46" height="46" alt="Zabbix" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="" width="46" height="46" alt="Linux" style="border-radius: 10px; margin-right: 2px;" />
-  <img src="" width="46" height="46" alt="Linux" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ldap-account-manager.png" width="46" height="46" alt="LDAP" style="border-radius: 10px; margin-right: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vscode.svg" width="46" height="46" alt="VScode" style="border-radius: 10px; margin-right: 2px;" />
 </p>
 
 ---
